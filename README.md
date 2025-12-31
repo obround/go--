@@ -9,6 +9,7 @@ The go-- compiler targets a significant subset of the Go programming language. V
 - Clang
 - LLVM 21
 - Make
+- Bohem GC
 
 ### Building
 Clone the repository and run `make`:
