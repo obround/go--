@@ -1,6 +1,8 @@
 # go--
 The go-- compiler targets a significant subset of the Go programming language. Validates Go programs and produces native executables.
 
+You can find the first version of this compiler (this is the third) here: https://github.com/obround/go.rs.
+
 ## Build and Usage
 
 ### Requirements
